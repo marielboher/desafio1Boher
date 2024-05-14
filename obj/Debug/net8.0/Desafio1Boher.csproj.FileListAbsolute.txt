@@ -1,0 +1,15 @@
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.AssemblyInfoInputs.cache
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.AssemblyInfo.cs
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.sourcelink.json
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\bin\Debug\net8.0\Desafio1Boher.exe
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\bin\Debug\net8.0\Desafio1Boher.deps.json
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\bin\Debug\net8.0\Desafio1Boher.runtimeconfig.json
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\bin\Debug\net8.0\Desafio1Boher.dll
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\bin\Debug\net8.0\Desafio1Boher.pdb
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.dll
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\refint\Desafio1Boher.dll
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.pdb
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\Desafio1Boher.genruntimeconfig.cache
+C:\Users\joaco\Desktop\maru\c#\Desafio1Boher\obj\Debug\net8.0\ref\Desafio1Boher.dll
